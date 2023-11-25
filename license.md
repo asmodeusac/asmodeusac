@@ -1,5 +1,21 @@
 Asmodeus License 2.0
 
+## TOS
+
+By purchasing our products you automatically accept the T.O.S.
+
+We are not offering replacement keys.
+
+Selling or Sharing your license will result in a
+permanent ban.
+
+Asmodeus can always update their strings and our
+method could possible become detected over time (low chance),
+but we will always try to update our project and bypass every check.
+
+There will be NO REFUNDS unless given a valid reason.
+
+
 ## Acceptance
 
 By using the software, you agree to all of the terms and conditions below.
